@@ -416,3 +416,72 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1599708475858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\IRLAB~1\\AppData\\Local\\Temp\\rust_mozprofile.3Vld7ubPOBdy"
+JavaScript error: ib5nqmhud3d.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599708477863	Marionette	INFO	Listening on port 5338
+1599708477868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599710021955	Marionette	INFO	Stopped listening on port 5338
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599710100173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\IRLAB~1\\AppData\\Local\\Temp\\rust_mozprofile.INHGSse6gWH4"
+JavaScript error: ib5nqmhud3d.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599710103271	Marionette	INFO	Listening on port 5725
+1599710103296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599710275083	Marionette	INFO	Stopped listening on port 5725
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599710430155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\IRLAB~1\\AppData\\Local\\Temp\\rust_mozprofile.9V8uWzgC67iS"
+JavaScript error: ib5nqmhud3d.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599710433558	Marionette	INFO	Listening on port 5824
+1599710433770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599710611291	Marionette	INFO	Stopped listening on port 5824
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599710622957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\IRLAB~1\\AppData\\Local\\Temp\\rust_mozprofile.SUrJulkBi14L"
+JavaScript error: ib5nqmhud3d.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599710626156	Marionette	INFO	Listening on port 5984
+1599710626583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599710781306	Marionette	INFO	Stopped listening on port 5984
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599710802069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\IRLAB~1\\AppData\\Local\\Temp\\rust_mozprofile.EkixhUs7M5pC"
+JavaScript error: ib5nqmhud3d.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599710804637	Marionette	INFO	Listening on port 6121
+1599710804684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599736081754	Marionette	INFO	Stopped listening on port 6121
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599736230464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\IRLAB~1\\AppData\\Local\\Temp\\rust_mozprofile.jZpChhp6vvJ4"
+JavaScript error: ib5nqmhud3d.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599736232472	Marionette	INFO	Listening on port 13680
+1599736232573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
